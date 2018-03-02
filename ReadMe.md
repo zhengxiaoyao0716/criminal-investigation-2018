@@ -10,4 +10,14 @@
 在 [swish](https://swish.swi-prolog.org) 中测试通过。
 
 ***
+### 其它语言版本
+(字母序)
+* [C#](https://www.zhihu.com/question/68411978/answer/332337808)
+* [Haskell](https://www.zhihu.com/question/68411978/answer/332459717)
+* [Prolog](https://www.zhihu.com/question/68411978/answer/332545899)
+* [Python](https://github.com/YuyuZha0/abcd_test)
+* [Visual Basic](https://www.zhihu.com/question/68411978/answer/331923520)
+
+***
+### 原题目
 ![question](question.png)
