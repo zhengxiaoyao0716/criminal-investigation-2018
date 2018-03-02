@@ -17,6 +17,7 @@
 * [Haskell](https://www.zhihu.com/question/68411978/answer/332459717)
 * [Prolog](https://www.zhihu.com/question/68411978/answer/332545899)
 * [Python](https://github.com/YuyuZha0/abcd_test)
+* [Python](https://www.zhihu.com/question/68411978/answers/created)
 * [Visual Basic](https://www.zhihu.com/question/68411978/answer/331923520)
 
 ***
