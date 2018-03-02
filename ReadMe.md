@@ -13,6 +13,7 @@
 ### 其它语言版本
 (字母序)
 * [C#](https://www.zhihu.com/question/68411978/answer/332337808)
+* [F#](https://www.zhihu.com/question/68411978/answer/332363865)
 * [Haskell](https://www.zhihu.com/question/68411978/answer/332459717)
 * [Prolog](https://www.zhihu.com/question/68411978/answer/332545899)
 * [Python](https://github.com/YuyuZha0/abcd_test)
